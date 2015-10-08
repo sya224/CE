@@ -1,3 +1,2 @@
 # CE
-CE
-dd
+UE4-CEP 연동대기
